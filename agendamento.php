@@ -48,11 +48,6 @@ if ($_POST) {
 }
 ?>
 
-<<<<<<< HEAD
-
-=======
-<!-- esta parte em especifico permite ao cliente agendar um test drive para o veículo selecionado. Apresentando as informações do veículo e um formulário para escolher a data e o horário que estão disponíveis no sistema, após o preenchimento, o agendamento é confirmado e registrado no banco de dados da concesionaria -->
->>>>>>> 30fb1aba560f2ef8396de1cfa9ee8d7f8e541cf3
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>

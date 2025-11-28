@@ -31,12 +31,8 @@ $veiculos = $stmt->fetchAll(PDO::FETCH_ASSOC);
     <nav>
         <?php if ($tipo_usuario === 'admin'): ?>
             <a href="adicionar_veiculo.php" class="btn-admin">Adicionar Veículo</a>
-<<<<<<< HEAD
             <a href="ver_agendamentos.php" class="btn-admin">Ver Agendamentos</a>
 
-=======
-        <!-- edif é uma sintaxe alternativa do PHP para fechar estruturas if quando misturadas com html -->
->>>>>>> 30fb1aba560f2ef8396de1cfa9ee8d7f8e541cf3
         <?php endif; ?>
 
         <a href="logout.php" class="btn-sair">Sair</a>
@@ -131,8 +127,4 @@ $veiculos = $stmt->fetchAll(PDO::FETCH_ASSOC);
 </footer>
 
 </body>
-<<<<<<< HEAD
-=======
-
->>>>>>> 30fb1aba560f2ef8396de1cfa9ee8d7f8e541cf3
 </html>

@@ -42,35 +42,20 @@
 
     <div class="cards">
       <div class="card">
-<<<<<<< HEAD
         <img src="assets/img/carro1.webp" alt="Carro esportivo">
         <h3>Modelos Exclusivos</h3>
-=======
-        <img src="img/carro1.jpeg" alt="Carro esportivo"> <!-- Imagem ilustrativa -->
-        <h3>Modelos Exclusivos</h3> <!-- Vantagem 1 -->
->>>>>>> 30fb1aba560f2ef8396de1cfa9ee8d7f8e541cf3
         <p>Escolha entre os carros mais desejados do mercado.</p>
       </div>
 
       <div class="card">
-<<<<<<< HEAD
         <img src="assets/img/interior.jpeg" alt="Interior de carro">
         <h3>Experiência Única</h3>
-=======
-        <img src="img/carro2.jpeg" alt="Interior de carro"> <!-- imagem ilustrativa -->
-        <h3>Experiência Única</h3> <!-- vantagem 2 -->
->>>>>>> 30fb1aba560f2ef8396de1cfa9ee8d7f8e541cf3
         <p>Teste antes de decidir, sinta o desempenho e conforto.</p>
       </div>
 
       <div class="card">
-<<<<<<< HEAD
         <img src="assets/img/bmw.jpg" alt="BMW preta">
         <h3>Agendamento Simples</h3>
-=======
-        <img src="img/carro3.jpeg" alt="BMW preta"> <!-- imagem ilustrativa -->
-        <h3>Agendamento Simples</h3> <!-- vantagem 3 -->
->>>>>>> 30fb1aba560f2ef8396de1cfa9ee8d7f8e541cf3
         <p>Faça tudo online em poucos cliques.</p>
       </div>
     </div>
